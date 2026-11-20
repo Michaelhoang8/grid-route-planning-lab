@@ -1,0 +1,337 @@
+[
+  {
+    "path": "environment.json",
+    "bytes": 946,
+    "sha256": "5f744037ea8b4a484ddcefff08f3392c3da49e9e8fac763fb534c8abc54230ce"
+  },
+  {
+    "path": "maps/disconnected.csv",
+    "bytes": 10582,
+    "sha256": "5d779b43e50ee435d487f036361b853f4995cbb52fa2f0270958c6ec0888784b"
+  },
+  {
+    "path": "maps/disconnected.json",
+    "bytes": 11485,
+    "sha256": "8454fedab2bba9e74be44cdc6a54b851ece857e696bfa9cef6b1e16756d132a8"
+  },
+  {
+    "path": "maps/narrow-passage-radius-1.csv",
+    "bytes": 10582,
+    "sha256": "b8a84310f3eea935193fb8ffd05646a657e4ddaac9329b85a01bfab689b27d84"
+  },
+  {
+    "path": "maps/narrow-passage-radius-1.json",
+    "bytes": 18587,
+    "sha256": "573f91190e8db6c94ead872dfc4acfefa203b92378e9678e8ecf18317915f933"
+  },
+  {
+    "path": "maps/narrow-passage.csv",
+    "bytes": 10582,
+    "sha256": "a5d22aa2f2873a8b2eb1beaf5cae353489379b934bf3c112d5d6c89319c6dcc9"
+  },
+  {
+    "path": "maps/narrow-passage.json",
+    "bytes": 12973,
+    "sha256": "c06eeca45cf7d1f460eed160536055628d38ced306a83ad0d333d8eb57a778a0"
+  },
+  {
+    "path": "maps/rooms.csv",
+    "bytes": 19462,
+    "sha256": "46f6da35d7271040e3d9225e31694cac0ed7e8fb327a8ec5faea74b901edda29"
+  },
+  {
+    "path": "maps/rooms.json",
+    "bytes": 22261,
+    "sha256": "6dc062608a9d3daa76484f26e2991bd0d6d9e9b7ff73d8fa69a541367513be78"
+  },
+  {
+    "path": "maps/seeded-terrain.csv",
+    "bytes": 11362,
+    "sha256": "9faab260448ffcb11bcba612757a9c7822aef43e6715fa9910134619b71f2ff6"
+  },
+  {
+    "path": "maps/seeded-terrain.json",
+    "bytes": 17227,
+    "sha256": "4e38ea7a716942b471769bdc837cbb2d23a41b834ba9bcdc7fce1d5f1b3fbd7d"
+  },
+  {
+    "path": "maps/terrain-band.csv",
+    "bytes": 10832,
+    "sha256": "fe70f97bfe4e460f28497fec9416d22cbc09f62b4ee02407279abc4e82596884"
+  },
+  {
+    "path": "maps/terrain-band.json",
+    "bytes": 10949,
+    "sha256": "065a2c9e864f4daccaa9def9de671ebccc792438a92ab08f32578d2e6a1cea1b"
+  },
+  {
+    "path": "maps/uniform.csv",
+    "bytes": 12712,
+    "sha256": "ae02f72d579cf4ab82f9441cc9275a7efd33c9bfea4be3dba173401da6ef19f8"
+  },
+  {
+    "path": "maps/uniform.json",
+    "bytes": 12710,
+    "sha256": "0fc43b5b67ce04e3f911dea112c61ea956a511a5863e672c54bbf9be4c224bd4"
+  },
+  {
+    "path": "maps/warehouse.csv",
+    "bytes": 17702,
+    "sha256": "6d12029163cd0cd25b904bd5ccdb8eb3950fe74b2e5004f91e64ff1174c751f6"
+  },
+  {
+    "path": "maps/warehouse.json",
+    "bytes": 27350,
+    "sha256": "8271d0302c5f1f898ec95a710a9ce6b63b29d146879461865d9bf360821ecf02"
+  },
+  {
+    "path": "measurements.csv",
+    "bytes": 4445,
+    "sha256": "9c2b0f1c2f7f4c1954d36939f6e816b9d066a2ef45db435dff12e7f0ea1e8839"
+  },
+  {
+    "path": "routes/disconnected__astar.json",
+    "bytes": 224,
+    "sha256": "8c298a506fb4c05177ba676c17f3753a8af3c076caab57bba7964ffb1121b1a4"
+  },
+  {
+    "path": "routes/disconnected__dijkstra.json",
+    "bytes": 227,
+    "sha256": "d0eeb0bf6f5239ffa288de8d39c2a04df25b3746c1c9045e3dd5ebec943682e5"
+  },
+  {
+    "path": "routes/disconnected__weighted_astar.json",
+    "bytes": 233,
+    "sha256": "988f3a0a2a303887753b5d671bf2c03dd0bad497cb6c7298d277f12eb85428b6"
+  },
+  {
+    "path": "routes/narrow-passage-radius-1__astar.json",
+    "bytes": 235,
+    "sha256": "5e2407ee069fd1a85b4f40a56957be6813df33ffe9ee40c6bdb12257aa1de4a8"
+  },
+  {
+    "path": "routes/narrow-passage-radius-1__dijkstra.json",
+    "bytes": 238,
+    "sha256": "bdfdf750255f8dd694ae5b9811019b3756fee5ff07da56d87cf35d7cae487425"
+  },
+  {
+    "path": "routes/narrow-passage-radius-1__weighted_astar.json",
+    "bytes": 244,
+    "sha256": "093a4906f0850d29c515ec720b981f8a175eae968f016a39ab5a7ad042b00047"
+  },
+  {
+    "path": "routes/narrow-passage__astar.json",
+    "bytes": 1396,
+    "sha256": "5b558e4259e2a533f485532c554ee2a19df6242b9c67658876a75ac319607a49"
+  },
+  {
+    "path": "routes/narrow-passage__dijkstra.json",
+    "bytes": 1401,
+    "sha256": "4847ef82282a0b13c07a1bef54e5aa2fc9ff8d80a34f04f5f16f9e35daac24f7"
+  },
+  {
+    "path": "routes/narrow-passage__weighted_astar.json",
+    "bytes": 1405,
+    "sha256": "a72affbe0b93a62537097c4fd03837350d251df2bddc64df98447244baf2c978"
+  },
+  {
+    "path": "routes/rooms__astar.json",
+    "bytes": 3857,
+    "sha256": "1fa283eb172fea4484d07db5da3e7fb1f68700b5d909b85538f77efcc253ae00"
+  },
+  {
+    "path": "routes/rooms__dijkstra.json",
+    "bytes": 3848,
+    "sha256": "27a65a8204141be100bb89209a0d42309eec58bfdfcf01810629378a246ef7d9"
+  },
+  {
+    "path": "routes/rooms__weighted_astar.json",
+    "bytes": 3867,
+    "sha256": "fc7914036ec2f769b8f6b29f8c65aee00c0bd02393a3b3f20149f03295807858"
+  },
+  {
+    "path": "routes/seeded-terrain__astar.json",
+    "bytes": 2175,
+    "sha256": "15c71e1cdc971edc2b4db4de5aac69a636499d00ebd7b4b6bbf571c1727f6630"
+  },
+  {
+    "path": "routes/seeded-terrain__dijkstra.json",
+    "bytes": 2178,
+    "sha256": "110bb01301693cb66fcd60dfaa24d3a955daf54fea40f24178a9951373c6b6b7"
+  },
+  {
+    "path": "routes/seeded-terrain__weighted_astar.json",
+    "bytes": 2180,
+    "sha256": "e122671053a9cb3781528ed12cf6edfe9265af2d608e99f3e3adf27e9bd912d8"
+  },
+  {
+    "path": "routes/terrain-band__astar.json",
+    "bytes": 1900,
+    "sha256": "654a491ced4573e3f5f67ccf265ac9db472a46d52aabe51e9bb26eae26dd4708"
+  },
+  {
+    "path": "routes/terrain-band__dijkstra.json",
+    "bytes": 1891,
+    "sha256": "54d0382f7f17c438d112ef16a161f5a78f79591c5c1ce1e686f4f18afd3dc946"
+  },
+  {
+    "path": "routes/terrain-band__weighted_astar.json",
+    "bytes": 1566,
+    "sha256": "50f789d9cfe96bd4fb705e816b8011617788fac283ae8cebec5bb20999567e76"
+  },
+  {
+    "path": "routes/uniform__astar.json",
+    "bytes": 2296,
+    "sha256": "15dd93e911828c9badadd1d8a91f0f0b4269760e3fe9dbd1e148cfef9405d30b"
+  },
+  {
+    "path": "routes/uniform__dijkstra.json",
+    "bytes": 2304,
+    "sha256": "06e63e32b5d981d3d4ab0698a72b7dab0b2efb8e385b8576a30db097edbfadcc"
+  },
+  {
+    "path": "routes/uniform__weighted_astar.json",
+    "bytes": 2305,
+    "sha256": "e08d2874949709759ce4340384a55dd37d51c119d7034d6de26e157e7764eb40"
+  },
+  {
+    "path": "routes/warehouse__astar.json",
+    "bytes": 2604,
+    "sha256": "dc03e407fecb5499970c84023d4bfa70dea424ed20afa2f501b90661596bc426"
+  },
+  {
+    "path": "routes/warehouse__dijkstra.json",
+    "bytes": 2607,
+    "sha256": "234b8d8ef2bc7db61927aec158e5c9b99767c59a91d67b25a8380c1cee14ddd5"
+  },
+  {
+    "path": "routes/warehouse__weighted_astar.json",
+    "bytes": 2608,
+    "sha256": "4faae51e100edb2525637b0ef89d9368efb9782e535e62a41fa5ff4d36ff6e36"
+  },
+  {
+    "path": "summary.csv",
+    "bytes": 2397,
+    "sha256": "b42bf3fc1336b38fd67478b5709327ff70f85aa69f43bce125c2e13654df4350"
+  },
+  {
+    "path": "traces/disconnected__astar.csv",
+    "bytes": 11984,
+    "sha256": "7a6f2cf34b9897faa5a5ae691c441fe88d094fa23d5f13193203af3de41bf9e7"
+  },
+  {
+    "path": "traces/disconnected__dijkstra.csv",
+    "bytes": 11278,
+    "sha256": "67d6bb9432232e06ec672f3998b7b5c5cfc43de96e4423628d9af26d87d3a7a7"
+  },
+  {
+    "path": "traces/disconnected__weighted_astar.csv",
+    "bytes": 12449,
+    "sha256": "4fe5b0528c8b91a9ef28331bee1b467e3ca7afbac9ae4e9713b4faac80c648df"
+  },
+  {
+    "path": "traces/narrow-passage-radius-1__astar.csv",
+    "bytes": 9488,
+    "sha256": "373a90c53418e2bc25f044249a55f4c3245a78d90711062318c094ca1ab82732"
+  },
+  {
+    "path": "traces/narrow-passage-radius-1__dijkstra.csv",
+    "bytes": 8906,
+    "sha256": "1f0d29e53686f3e6b04ffa9bdc22c57ee4238c12d3eabf38c75501ca094c9b5b"
+  },
+  {
+    "path": "traces/narrow-passage-radius-1__weighted_astar.csv",
+    "bytes": 9864,
+    "sha256": "8bd2c6ef1091c458c1fa34432aceddb2fa2bc7b2b3c690b190808640450dee87"
+  },
+  {
+    "path": "traces/narrow-passage__astar.csv",
+    "bytes": 848,
+    "sha256": "4a81d3a45f9719ac52b6ad70bc430ea12fc2ccee9905bc7889387583ebdf6d18"
+  },
+  {
+    "path": "traces/narrow-passage__dijkstra.csv",
+    "bytes": 16363,
+    "sha256": "39302b96c3cec0df84ed7120847e79e22a326c87d4ae4382ee666d5a65cebf6b"
+  },
+  {
+    "path": "traces/narrow-passage__weighted_astar.csv",
+    "bytes": 853,
+    "sha256": "432aa2392614bae3269bec66e2c8aae9b737910ac8a191e62c9b8eba8114e394"
+  },
+  {
+    "path": "traces/rooms__astar.csv",
+    "bytes": 19834,
+    "sha256": "8b096ed03457601e7636dd3819a97f7b341f2ea315cc28d7ea13cfca094aea61"
+  },
+  {
+    "path": "traces/rooms__dijkstra.csv",
+    "bytes": 37642,
+    "sha256": "dd0a5bc0bbb8c85ea87b8909acbd8fb5d8d4d0d11f42679eb5a81cee34b08f5f"
+  },
+  {
+    "path": "traces/rooms__weighted_astar.csv",
+    "bytes": 18358,
+    "sha256": "819c97e080d5e1be0bca312388a1ee12cb5847a69ef0074a4fb5b49d88339256"
+  },
+  {
+    "path": "traces/seeded-terrain__astar.csv",
+    "bytes": 9637,
+    "sha256": "d7d09a4a5af5337136696db8ce1d9423deaf650d13d7ab642d17582f24e72044"
+  },
+  {
+    "path": "traces/seeded-terrain__dijkstra.csv",
+    "bytes": 21211,
+    "sha256": "55c1a1b8638e93c06b717db9ce8873f11a8d674b3c8407f089984872453c9799"
+  },
+  {
+    "path": "traces/seeded-terrain__weighted_astar.csv",
+    "bytes": 1446,
+    "sha256": "4e77e1ccef167d3d5487eff71918befe9cde6697ef56d4fa67a303b7a81c4e02"
+  },
+  {
+    "path": "traces/terrain-band__astar.csv",
+    "bytes": 4049,
+    "sha256": "9dbbd2c8221a0e5459961182b350b2a175be388f91ca6869cfd4fa56bcf934f4"
+  },
+  {
+    "path": "traces/terrain-band__dijkstra.csv",
+    "bytes": 23739,
+    "sha256": "078c67dd34f0453042647f9070af354cdfa6f60effc855c8882387ff3c44077d"
+  },
+  {
+    "path": "traces/terrain-band__weighted_astar.csv",
+    "bytes": 3991,
+    "sha256": "bc05dca68f376f492b45df6281180fb56e334cd2ad71c10c0502765ab1dbebf0"
+  },
+  {
+    "path": "traces/uniform__astar.csv",
+    "bytes": 1455,
+    "sha256": "ba3173801e36837148629263cf6715ca43e7b1ec883e7fecd0c22b8130c7c7f1"
+  },
+  {
+    "path": "traces/uniform__dijkstra.csv",
+    "bytes": 28650,
+    "sha256": "42c8351689752f8738556af5aa0c9a1c3eb3e539c5aecf6e37c78c3a65f89281"
+  },
+  {
+    "path": "traces/uniform__weighted_astar.csv",
+    "bytes": 1505,
+    "sha256": "8eaa5b79dce3df0b588d8d676da8f84fdcec6d742c16bf4d2e52376f5393b765"
+  },
+  {
+    "path": "traces/warehouse__astar.csv",
+    "bytes": 22558,
+    "sha256": "4cc940b4fe4ea827d76a3a704c6163754e514c0f8afb4974e8a174f9650e8eb6"
+  },
+  {
+    "path": "traces/warehouse__dijkstra.csv",
+    "bytes": 32901,
+    "sha256": "cf5a87b42ba4bfdeebd902a9b182db96bd0271221df52f39993dcbcb1b056791"
+  },
+  {
+    "path": "traces/warehouse__weighted_astar.csv",
+    "bytes": 1739,
+    "sha256": "c5217a2db0f42911d3ef1fa3fe793fb20a1f3a48ffeb215a5e5ce024056386f3"
+  }
+]

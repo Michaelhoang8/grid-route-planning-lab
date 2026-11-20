@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-20T23:35:41.222009+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Grid route planning | Measured search study",
+  "report_sha256_normalized_text": "22201eb8f29d3f88dc69fc893bc7436b210a2ef9368c69f9e058c7a76620ce41",
+  "video_sha256": "b4a91b55c529f8c32aa9e2cdec48ab09f64fa0dd62b41ba0df66c1b6c86bd8bf",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "71f4482f687cfdbb414d4ebd658c54ef2bab5f45290486afe9b4e1440e0c0941"
+    },
+    {
+      "path": "docs/screenshots/02_search.png",
+      "section": "search",
+      "sha256": "29788e8cd92fffe89f244bdddce81b6ed263b113e7e1a193eb11eef72c869891"
+    },
+    {
+      "path": "docs/screenshots/03_clearance.png",
+      "section": "clearance",
+      "sha256": "01c659b01a2f95c793291c980c333a7cd55f16d92755e7aa6bba1ef9d3904c73"
+    },
+    {
+      "path": "docs/screenshots/04_comparison.png",
+      "section": "comparison",
+      "sha256": "d90172fa6e153d84aa8463dd9d7e895e7396f5fd44cd73265530428a80476c47"
+    },
+    {
+      "path": "docs/screenshots/05_replay.png",
+      "section": "replay",
+      "sha256": "aa371266052a3b5b1ffc0b6fb1b3bb55d2cbc3658f8f687ca6ce2d3892ac99b0"
+    },
+    {
+      "path": "docs/screenshots/06_validation.png",
+      "section": "validation",
+      "sha256": "0b765e1b1b4b13c3973b187c6867a207c37375b3a484bc0fb87b2f3c3a419ca2"
+    }
+  ]
+}

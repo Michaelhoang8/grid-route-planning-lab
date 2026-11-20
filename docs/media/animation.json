@@ -1,0 +1,16 @@
+{
+  "frames": 240,
+  "fps": 20,
+  "seconds": 12.0,
+  "width": 1440,
+  "height": 620,
+  "progress": "Each algorithm's own expansion count is normalized independently; not a wall-clock race",
+  "source_sha256": {
+    "results/published/maps/terrain-band.json": "065a2c9e864f4daccaa9def9de671ebccc792438a92ab08f32578d2e6a1cea1b",
+    "results/published/traces/terrain-band__dijkstra.csv": "078c67dd34f0453042647f9070af354cdfa6f60effc855c8882387ff3c44077d",
+    "results/published/traces/terrain-band__astar.csv": "9dbbd2c8221a0e5459961182b350b2a175be388f91ca6869cfd4fa56bcf934f4",
+    "results/published/traces/terrain-band__weighted_astar.csv": "bc05dca68f376f492b45df6281180fb56e334cd2ad71c10c0502765ab1dbebf0"
+  },
+  "pillow": "13.0.0",
+  "ffmpeg": "ffmpeg version 2024-01-04-git-33698ef891-full_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers"
+}

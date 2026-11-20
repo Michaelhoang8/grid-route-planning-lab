@@ -1,0 +1,13 @@
+{
+  "status": "unreachable",
+  "path": [],
+  "cost": null,
+  "expanded": 437,
+  "unique_expanded": 437,
+  "reopens": 0,
+  "generated": 437,
+  "stale_pops": 0,
+  "algorithm": "astar",
+  "weight": 1,
+  "map": "narrow-passage-radius-1"
+}

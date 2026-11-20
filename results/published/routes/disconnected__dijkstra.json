@@ -1,0 +1,13 @@
+{
+  "status": "unreachable",
+  "path": [],
+  "cost": null,
+  "expanded": 550,
+  "unique_expanded": 550,
+  "reopens": 0,
+  "generated": 550,
+  "stale_pops": 0,
+  "algorithm": "dijkstra",
+  "weight": 1,
+  "map": "disconnected"
+}

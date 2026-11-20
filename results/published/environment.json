@@ -1,0 +1,20 @@
+{
+  "started_utc": "2026-11-20T23:21:46.911738+00:00",
+  "completed_utc": "2026-11-20T23:21:47.367186+00:00",
+  "python": "3.13.17",
+  "os": "Windows",
+  "architecture": "AMD64",
+  "repetitions": 5,
+  "map_seed": 20261120,
+  "order_seed": 18139,
+  "maps": 8,
+  "raw_timing_rows": 120,
+  "source_sha256_lf": {
+    "src/gridroute/core.py": "7b725c696134d4bcc98648d5f217b66b79697dd232a12b1abc4489efaa9769c2",
+    "src/gridroute/fixtures.py": "70670178c48941fd948f154a9d0efb199abdbee4735b658ea1623d893eaca2f7",
+    "scripts/run_study.py": "dbb9be056b47373226a3da36a95c9bd1d86e2deab1d18f2f0df9ef406d090369"
+  },
+  "source_hash_policy": "CRLF and CR normalized to LF before SHA-256, captured before timing",
+  "timing_scope": "One untimed warmup then complete in-memory search calls including trace and route construction; no map I/O or rendering",
+  "provenance": "All maps procedurally constructed by this repository; simulated grid planning only"
+}
