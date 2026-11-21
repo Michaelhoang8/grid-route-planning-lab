@@ -1,5 +1,7 @@
 # Grid route planning lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/grid-route-planning-lab/)**
+
 Dijkstra, A* and weighted A* implemented from source on simulated, positive-cost, four-neighbor grids. The study preserves maps, returned routes, expansion traces and actual repeated measurements, with explicit discrete footprint assumptions.
 
 [Report](docs/report.html) · [Algorithms and assumptions](docs/algorithms.md) · [Methodology](docs/methodology.md) · [Findings](docs/findings.md) · [Trace animation](docs/media/search-expansion.mp4) · [Screenshots](docs/screenshots/README.md) · [Report recording](docs/recordings/README.md)
